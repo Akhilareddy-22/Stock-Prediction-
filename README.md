@@ -55,7 +55,7 @@ stock-prediction-ml/
 └── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/stock-prediction-ml.git
+git clone https://github.com/Akhilareddy-22/stock-prediction-ml.git
 cd stock-prediction-ml
 2️⃣ Create Virtual Environment (Optional but Recommended)
 python -m venv venv
